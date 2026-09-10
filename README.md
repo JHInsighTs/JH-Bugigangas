@@ -1,6 +1,6 @@
-# JH Bugigangas — Business Intelligence
+# JH Bugigangas — Projeto de Business Intelligence
 
-![Capa do projeto](imagens/01_capa.png)
+![Capa do projeto](01_capa.png)
 
 Projeto de Business Intelligence desenvolvido no Power BI para uma empresa fictícia do setor de autopeças. A solução conecta vendas, estoque, compras e clientes em uma visão integrada da operação.
 
@@ -35,37 +35,37 @@ Os dados operacionais existiam, mas estavam distribuídos entre diferentes bases
 
 Visão consolidada da receita, lucro, margem, desempenho mensal e participação das categorias.
 
-![Dashboard Executivo](imagens/dashboards/01_executivo.png)
+![Dashboard Executivo](01_executivo.png)
 
 ### 2. Comercial
 
 Análise de clientes ativos, peças vendidas, pedidos, ticket médio, fabricantes e produtos mais lucrativos.
 
-![Dashboard Comercial](imagens/dashboards/02_comercial.png)
+![Dashboard Comercial](02_comercial.png)
 
 ### 3. Estoque
 
 Posição corporativa do estoque na data final selecionada, movimentações mensais, baixo giro e capital imobilizado.
 
-![Dashboard de Estoque](imagens/dashboards/03_estoque.png)
+![Dashboard de Estoque](03_estoque.png)
 
 ### 4. Compras
 
 Acompanhamento do investimento, volume comprado, fornecedores, economia negociada em fretes e descontos obtidos.
 
-![Dashboard de Compras](imagens/dashboards/04_compras.png)
+![Dashboard de Compras](04_compras.png)
 
 ### 5. Clientes
 
 Visão da carteira, receita média, frequência de compra, distribuição do lucro por porte e tipo de cliente.
 
-![Dashboard de Clientes](imagens/dashboards/05_clientes.png)
+![Dashboard de Clientes](05_clientes.png)
 
 ### 6. Insights
 
 Curva ABC, relação entre receita e capital imobilizado e recomendações de reposição ou redução de compras.
 
-![Dashboard de Insights](imagens/dashboards/06_insights.png)
+![Dashboard de Insights](06_insights.png)
 
 ## Principais resultados
 
