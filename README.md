@@ -1,6 +1,6 @@
 # JH Bugigangas — Business Intelligence
 
-![Capa do projeto](imagens/carrossel/01_capa.png)
+![Capa do projeto](imagens/01_capa.png)
 
 Projeto de Business Intelligence desenvolvido no Power BI para uma empresa fictícia do setor de autopeças. A solução conecta vendas, estoque, compras e clientes em uma visão integrada da operação.
 
